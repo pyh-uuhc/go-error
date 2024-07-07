@@ -1,4 +1,4 @@
-package errorwrapping
+package main
 
 import (
 	"errors"
